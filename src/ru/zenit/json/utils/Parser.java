@@ -13,7 +13,7 @@ public class Parser {
     int index = 0;
     int countElements;
     int FindObject = 0;
-        
+
     public ArrayList<String> getValue_element() {return value_element;}
     public void setValue_element(ArrayList<String> value_element) {this.value_element = value_element;}
     
